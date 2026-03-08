@@ -1,8 +1,15 @@
 # 🏗 Máy Tính Tài Chính — Free Financial Calculators for Vietnam
 
-[![Website](https://img.shields.io/badge/🌐_Live-maytinhtaichinh.com-0070f3?style=for-the-badge)](https://maytinhtaichinh.com)
-[![Lighthouse SEO](https://img.shields.io/badge/Lighthouse_SEO-100%2F100-4ade80?style=for-the-badge)](https://maytinhtaichinh.com)
-[![Blog Posts](https://img.shields.io/badge/Blog_Posts-17+-3b82f6?style=for-the-badge)](https://maytinhtaichinh.com/blog)
+<p align="center">
+  <img src="assets/hero-banner.png" alt="Máy Tính Tài Chính - 20+ Free Financial Calculators" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://maytinhtaichinh.com"><img src="https://img.shields.io/badge/🌐_Live-maytinhtaichinh.com-0070f3?style=for-the-badge" alt="Website"/></a>
+  <a href="https://maytinhtaichinh.com"><img src="https://img.shields.io/badge/Lighthouse_SEO-100%2F100-4ade80?style=for-the-badge" alt="Lighthouse SEO"/></a>
+  <a href="https://maytinhtaichinh.com/blog"><img src="https://img.shields.io/badge/Blog_Posts-27+-3b82f6?style=for-the-badge" alt="Blog Posts"/></a>
+  <a href="https://maytinhtaichinh.com/cong-cu"><img src="https://img.shields.io/badge/Calculators-20+-f59e0b?style=for-the-badge" alt="Calculators"/></a>
+</p>
 
 > **Nền tảng quản lý tài chính cá nhân miễn phí hàng đầu Việt Nam.** 20+ công cụ tính toán tài chính chính xác theo luật thuế 2026 (biểu thuế 5 bậc mới), cập nhật lãi suất ngân hàng, và hướng dẫn đầu tư cho người Việt.
 
@@ -10,9 +17,30 @@
 
 ---
 
-## 📱 Mobile App — Tháp Tài Sản
+## 📥 Tải Ứng Dụng
 
-Ngoài web, chúng tôi còn phát triển **ứng dụng di động Tháp Tài Sản** bằng Flutter — quản lý tài sản cá nhân toàn diện:
+<p align="center">
+  <a href="https://apps.apple.com/vn/app/50-máy-tính-tài-chính/id6759550075?l=vi">
+    <img src="assets/app-store-badge.svg" alt="Download on App Store" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.thaptaisan.mobile&pcampaignid=web_share">
+    <img src="assets/google-play-badge.png" alt="Get it on Google Play" height="50"/>
+  </a>
+</p>
+
+| Nền tảng | Link tải |
+|:---------|:---------|
+| 🍎 **iOS (App Store)** | [50+ Máy Tính Tài Chính](https://apps.apple.com/vn/app/50-máy-tính-tài-chính/id6759550075?l=vi) |
+| 🤖 **Android (Google Play)** | [Tháp Tài Sản](https://play.google.com/store/apps/details?id=com.thaptaisan.mobile&pcampaignid=web_share) |
+| 🌐 **Chrome Extension** | [Cài đặt Extension](https://chromewebstore.google.com/detail/elkcnfiekdidhhinbkkonjadkcbfodlm) |
+| 💻 **Web App** | [maytinhtaichinh.com](https://maytinhtaichinh.com) |
+
+---
+
+## 📱 Mobile App — Tháp Tài Sản (Flutter)
+
+Ứng dụng di động **Tháp Tài Sản** — quản lý tài sản cá nhân toàn diện:
 
 - 📊 **Quản lý danh mục đầu tư** — Theo dõi cổ phiếu, quỹ ETF, vàng, crypto, bất động sản
 - 💰 **Theo dõi tài sản ròng** — Biểu đồ tăng trưởng tài sản theo thời gian
@@ -20,9 +48,17 @@ Ngoài web, chúng tôi còn phát triển **ứng dụng di động Tháp Tài 
 - 🏦 **Liên kết tài khoản** — Tiết kiệm, cổ phiếu, crypto trong 1 app
 - 🌙 **Dark mode** — Giao diện tối hiện đại
 
-**Tech:** Flutter + Go backend + MongoDB + Supabase Auth
+---
 
-🔗 Download: [thaptaisan.com](https://thaptaisan.com)
+## 🔌 Chrome Extension — Giá Vàng & Tỷ Giá
+
+<p align="center">
+  <img src="assets/chrome-screenshot.png" alt="Chrome Extension - Giá Vàng Real-time" width="400"/>
+</p>
+
+Theo dõi **giá vàng SJC, 9999** và **tỷ giá USD** real-time ngay trên Chrome toolbar.
+
+👉 [**Cài đặt Chrome Extension →**](https://chromewebstore.google.com/detail/elkcnfiekdidhhinbkkonjadkcbfodlm)
 
 ---
 
@@ -37,7 +73,7 @@ Tất cả công cụ **miễn phí**, không cần đăng ký, cập nhật the
 | **Lãi Vay Mua Nhà** | Tính lãi vay ngân hàng trả góp mua nhà/căn hộ | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/so-sanh-mua-nha-vs-thue-nha) |
 | **Lãi Vay Mua Xe** | Tính chi phí trả góp mua ô tô/xe máy | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-tien-vay-mua-xe) |
 | **FIRE Calculator** | Tính số năm để nghỉ hưu sớm (FIRE Number) | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-fire-nghi-huu-som) |
-| **Lãi Kép** | Tính lãi kép đầu tư dài hạn | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-dau-tu-dinh-ky-dca) |
+| **DCA Calculator** | Mô phỏng đầu tư định kỳ | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-dau-tu-dinh-ky-dca) |
 | **Quỹ Dự Phòng** | Tính quỹ khẩn cấp 3-6 tháng chi phí | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-quy-du-phong) |
 | **Quy Đổi Ngoại Tệ** | Quy đổi USD, EUR, JPY sang VND | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/currency-calculator) |
 | **Giá Vàng** | Theo dõi giá vàng SJC, 9999 real-time | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/gia-vang) |
@@ -96,11 +132,12 @@ Bài viết chuyên sâu về tài chính cá nhân, cập nhật 2026:
 | Layer | Technology |
 |:------|:-----------|
 | Web Frontend | Next.js 15, React 19, TypeScript |
-| Mobile App | Flutter (iOS & Android) |
+| Mobile App | **Flutter** (iOS & Android) |
+| Chrome Extension | Vanilla JS + Chrome APIs |
 | Backend | Go (Golang), REST API |
 | Database | MongoDB Atlas |
 | Auth | Supabase Auth |
-| Hosting | Google Cloud Platform (GCP) |
+| Hosting | **Google Cloud Platform (GCP)** |
 | SEO | Dynamic sitemap, JSON-LD schema, FAQPage, Person schema |
 
 ---
@@ -108,10 +145,11 @@ Bài viết chuyên sâu về tài chính cá nhân, cập nhật 2026:
 ## 📊 Highlights
 
 - ✅ **20+ financial calculators** — tax, salary, mortgage, investment, retirement
-- ✅ **Flutter mobile app** — Quản lý tài sản, theo dõi P/L, danh mục đầu tư
+- ✅ **Flutter mobile app** — iOS & Android, quản lý tài sản, danh mục đầu tư
+- ✅ **Chrome extension** — Giá vàng & tỷ giá real-time
 - ✅ **2026 tax law compliant** — 5-bracket PIT with 15.5M VND personal deduction
 - ✅ **Lighthouse 100/100** — Performance, SEO, Accessibility, Best Practices
-- ✅ **Dark mode** — Full dark/light theme support across web & app
+- ✅ **Dark mode** — Full dark/light theme support across all platforms
 - ✅ **27 blog posts** — Educational content on personal finance
 - ✅ **55 FAQ schemas** — Rich results in Google Search
 - ✅ **Deployed on GCP** — Fast, reliable, scalable
