@@ -10,6 +10,22 @@
 
 ---
 
+## 📱 Mobile App — Tháp Tài Sản
+
+Ngoài web, chúng tôi còn phát triển **ứng dụng di động Tháp Tài Sản** bằng Flutter — quản lý tài sản cá nhân toàn diện:
+
+- 📊 **Quản lý danh mục đầu tư** — Theo dõi cổ phiếu, quỹ ETF, vàng, crypto, bất động sản
+- 💰 **Theo dõi tài sản ròng** — Biểu đồ tăng trưởng tài sản theo thời gian
+- 📈 **P/L Calculator** — Tính lãi/lỗ cho từng loại tài sản
+- 🏦 **Liên kết tài khoản** — Tiết kiệm, cổ phiếu, crypto trong 1 app
+- 🌙 **Dark mode** — Giao diện tối hiện đại
+
+**Tech:** Flutter + Go backend + MongoDB + Supabase Auth
+
+🔗 Download: [thaptaisan.com](https://thaptaisan.com)
+
+---
+
 ## 🧮 Công Cụ Tính Toán (20+ Calculators)
 
 Tất cả công cụ **miễn phí**, không cần đăng ký, cập nhật theo quy định 2026.
@@ -18,14 +34,16 @@ Tất cả công cụ **miễn phí**, không cần đăng ký, cập nhật the
 |:--------|:------|:-----|
 | **Thuế TNCN 2026** | Tính thuế thu nhập cá nhân theo biểu thuế 5 bậc mới | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-thue-thu-nhap-ca-nhan) |
 | **Lương Gross ↔ Net** | Quy đổi lương Gross sang Net và ngược lại | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-luong-gross-net) |
-| **Lãi Vay Mua Nhà** | Tính lãi vay ngân hàng trả góp mua nhà/căn hộ | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-lai-vay-ngan-hang) |
-| **Lãi Vay Mua Xe** | Tính chi phí trả góp mua ô tô/xe máy | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/vay-mua-xe-tra-gop) |
+| **Lãi Vay Mua Nhà** | Tính lãi vay ngân hàng trả góp mua nhà/căn hộ | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/so-sanh-mua-nha-vs-thue-nha) |
+| **Lãi Vay Mua Xe** | Tính chi phí trả góp mua ô tô/xe máy | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-tien-vay-mua-xe) |
 | **FIRE Calculator** | Tính số năm để nghỉ hưu sớm (FIRE Number) | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-fire-nghi-huu-som) |
-| **Lãi Kép** | Tính lãi kép đầu tư dài hạn | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-lai-kep) |
+| **Lãi Kép** | Tính lãi kép đầu tư dài hạn | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-dau-tu-dinh-ky-dca) |
 | **Quỹ Dự Phòng** | Tính quỹ khẩn cấp 3-6 tháng chi phí | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-quy-du-phong) |
-| **Quy Đổi Ngoại Tệ** | Quy đổi USD, EUR, JPY sang VND | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/quy-doi-ngoai-te) |
-| **Tỷ Suất Nợ DTI** | Đánh giá khả năng vay vốn | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/ty-suat-no-dti) |
-| **Lạm Phát** | Tính giá trị thực của tiền theo thời gian | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-lam-phat) |
+| **Quy Đổi Ngoại Tệ** | Quy đổi USD, EUR, JPY sang VND | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/currency-calculator) |
+| **Giá Vàng** | Theo dõi giá vàng SJC, 9999 real-time | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/gia-vang) |
+| **Tỷ Suất Nợ DTI** | Đánh giá khả năng vay vốn | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-ty-le-no-an-toan) |
+| **Sức Khỏe Tài Chính** | Đánh giá toàn diện tình hình tài chính | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/diem-suc-khoe-tai-chinh) |
+| **Lợi Nhuận Cổ Phiếu** | Tính ROI đầu tư chứng khoán | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/loi-nhuan-co-phieu) |
 
 👉 **[Xem tất cả 20+ công cụ →](https://maytinhtaichinh.com/cong-cu)**
 
@@ -41,22 +59,33 @@ Bài viết chuyên sâu về tài chính cá nhân, cập nhật 2026:
 - [Thuế TNCN 5 Bậc 2026 — Biểu Thuế Mới](https://maytinhtaichinh.com/blog/thue-tncn-5-bac-2026)
 - [Lương 15 Triệu Net Là Gross Bao Nhiêu?](https://maytinhtaichinh.com/blog/luong-15-trieu-net-la-gross-bao-nhieu)
 - [Lương Gross Và Net — Hướng Dẫn Quy Đổi](https://maytinhtaichinh.com/blog/luong-gross-va-net)
+- [Cách Tính Lương Hưu BHXH 2026](https://maytinhtaichinh.com/blog/cach-tinh-luong-huu-bhxh)
 
 ### Đầu Tư & Tiết Kiệm
-- [Lãi Suất Ngân Hàng Nào Cao Nhất 2026?](https://maytinhtaichinh.com/blog/lai-suat-ngan-hang-nao-cao-nhat-2026)
+- [Lãi Suất Ngân Hàng Cao Nhất 2026](https://maytinhtaichinh.com/blog/lai-suat-ngan-hang-cao-nhat-2026)
 - [Thu Nhập 20 Triệu/Tháng Nên Đầu Tư Gì?](https://maytinhtaichinh.com/blog/thu-nhap-20-trieu-dau-tu-gi)
-- [So Sánh Vàng SJC vs Vàng Nhẫn 9999](https://maytinhtaichinh.com/blog/so-sanh-vang-sjc-vs-nhan-9999)
+- [So Sánh Vàng SJC vs Vàng Nhẫn 9999](https://maytinhtaichinh.com/blog/so-sanh-vang-sjc-vs-nhan)
 - [Lãi Kép Là Gì? Công Thức Tính Lãi Kép](https://maytinhtaichinh.com/blog/lai-kep-la-gi-cong-thuc-tinh)
-- [Hướng Dẫn Đầu Tư Cho Người Mới 2026](https://maytinhtaichinh.com/blog/huong-dan-dau-tu)
-- [Tỷ Giá USD Hôm Nay](https://maytinhtaichinh.com/blog/ty-gia-usd-hom-nay)
+- [Hướng Dẫn Đầu Tư Cho Người Mới 2026](https://maytinhtaichinh.com/blog/huong-dan-dau-tu-cho-nguoi-moi)
+- [Đầu Tư Vàng: Hướng Dẫn Cho Người Mới](https://maytinhtaichinh.com/blog/dau-tu-vang)
+- [Đầu Tư Định Kỳ DCA](https://maytinhtaichinh.com/blog/dau-tu-dinh-ky-dca)
+- [Đầu Tư vs Tiết Kiệm](https://maytinhtaichinh.com/blog/dau-tu-vs-tiet-kiem)
+- [Lợi Nhuận Cổ Phiếu — Cách Tính ROI](https://maytinhtaichinh.com/blog/loi-nhuan-co-phieu)
+- [Tỷ Giá Ngoại Tệ Hôm Nay 2026](https://maytinhtaichinh.com/blog/ty-gia-ngoai-te-hom-nay-2026)
 
 ### Tài Chính Cá Nhân
 - [FIRE Là Gì? Nghỉ Hưu Sớm Ở Tuổi 30-40](https://maytinhtaichinh.com/blog/fire-la-gi)
+- [Barista FIRE — Nghỉ Hưu Sớm Bán Thời Gian](https://maytinhtaichinh.com/blog/barista-fire-la-gi)
 - [Quỹ Dự Phòng Cần Bao Nhiêu?](https://maytinhtaichinh.com/blog/quy-du-phong-can-bao-nhieu)
 - [Bảng Tính Lãi Vay Mua Nhà 2026](https://maytinhtaichinh.com/blog/bang-tinh-lai-vay-mua-nha-2026)
 - [Cách Tính Nghỉ Hưu Sớm FIRE](https://maytinhtaichinh.com/blog/cach-tinh-nghi-huu-som-fire)
 - [Tính Lãi Vay Mua Xe Trả Góp](https://maytinhtaichinh.com/blog/tinh-lai-vay-mua-xe)
 - [App Quản Lý Chi Tiêu Cho Vợ Chồng 2026](https://maytinhtaichinh.com/blog/app-quan-ly-chi-tieu-vo-chong-2026)
+- [Mua Nhà Hay Thuê Nhà?](https://maytinhtaichinh.com/blog/mua-nha-hay-thue-nha)
+- [Chiến Lược Trả Nợ Snowball vs Avalanche](https://maytinhtaichinh.com/blog/chien-luoc-tra-no)
+- [Tỷ Lệ Nợ An Toàn DTI](https://maytinhtaichinh.com/blog/ty-le-no-an-toan)
+- [Sức Khỏe Tài Chính Là Gì?](https://maytinhtaichinh.com/blog/suc-khoe-tai-chinh)
+- [Bắt Đầu Hành Trình Tài Chính](https://maytinhtaichinh.com/blog/bat-dau)
 
 👉 **[Xem tất cả bài viết →](https://maytinhtaichinh.com/blog)**
 
@@ -66,26 +95,26 @@ Bài viết chuyên sâu về tài chính cá nhân, cập nhật 2026:
 
 | Layer | Technology |
 |:------|:-----------|
-| Frontend | Next.js 15, React 19, TypeScript |
+| Web Frontend | Next.js 15, React 19, TypeScript |
+| Mobile App | Flutter (iOS & Android) |
 | Backend | Go (Golang), REST API |
 | Database | MongoDB Atlas |
 | Auth | Supabase Auth |
-| Hosting | Vercel (Frontend), VPS (Backend) |
+| Hosting | Google Cloud Platform (GCP) |
 | SEO | Dynamic sitemap, JSON-LD schema, FAQPage, Person schema |
 
 ---
 
-## 📊 Features
+## 📊 Highlights
 
 - ✅ **20+ financial calculators** — tax, salary, mortgage, investment, retirement
+- ✅ **Flutter mobile app** — Quản lý tài sản, theo dõi P/L, danh mục đầu tư
 - ✅ **2026 tax law compliant** — 5-bracket PIT with 15.5M VND personal deduction
 - ✅ **Lighthouse 100/100** — Performance, SEO, Accessibility, Best Practices
-- ✅ **Dark mode** — Full dark/light theme support
-- ✅ **Mobile responsive** — Optimized for all screen sizes
-- ✅ **PWA ready** — Installable on mobile devices
-- ✅ **17 blog posts** — Educational content on personal finance
+- ✅ **Dark mode** — Full dark/light theme support across web & app
+- ✅ **27 blog posts** — Educational content on personal finance
 - ✅ **55 FAQ schemas** — Rich results in Google Search
-- ✅ **Multi-domain** — maytinhtaichinh.com + thaptaisan.com
+- ✅ **Deployed on GCP** — Fast, reliable, scalable
 
 ---
 
