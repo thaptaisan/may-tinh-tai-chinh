@@ -1,17 +1,17 @@
 # 🏗 Máy Tính Tài Chính — Free Financial Calculators for Vietnam
 
 <p align="center">
-  <img src="assets/hero-banner.png" alt="Máy Tính Tài Chính - 20+ Free Financial Calculators" width="100%"/>
+  <img src="assets/hero-banner.png" alt="Máy Tính Tài Chính - 50+ Free Financial Calculators" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://maytinhtaichinh.com"><img src="https://img.shields.io/badge/🌐_Live-maytinhtaichinh.com-0070f3?style=for-the-badge" alt="Website"/></a>
   <a href="https://maytinhtaichinh.com"><img src="https://img.shields.io/badge/Lighthouse_SEO-100%2F100-4ade80?style=for-the-badge" alt="Lighthouse SEO"/></a>
   <a href="https://maytinhtaichinh.com/blog"><img src="https://img.shields.io/badge/Blog_Posts-27+-3b82f6?style=for-the-badge" alt="Blog Posts"/></a>
-  <a href="https://maytinhtaichinh.com/cong-cu"><img src="https://img.shields.io/badge/Calculators-20+-f59e0b?style=for-the-badge" alt="Calculators"/></a>
+  <a href="https://maytinhtaichinh.com/cong-cu"><img src="https://img.shields.io/badge/Calculators-50+-f59e0b?style=for-the-badge" alt="Calculators"/></a>
 </p>
 
-> **Nền tảng quản lý tài chính cá nhân miễn phí hàng đầu Việt Nam.** 20+ công cụ tính toán tài chính chính xác theo luật thuế 2026 (biểu thuế 5 bậc mới), cập nhật lãi suất ngân hàng, và hướng dẫn đầu tư cho người Việt.
+> **Nền tảng quản lý tài chính cá nhân miễn phí hàng đầu Việt Nam.** 50+ công cụ tính toán tài chính chính xác theo luật thuế 2026 (biểu thuế 5 bậc mới), cập nhật lãi suất ngân hàng, và hướng dẫn đầu tư cho người Việt.
 
 🔗 **Website:** [maytinhtaichinh.com](https://maytinhtaichinh.com) | [thaptaisan.com](https://thaptaisan.com)
 
@@ -62,11 +62,15 @@ Theo dõi **giá vàng SJC, 9999** và **tỷ giá USD** real-time ngay trên Ch
 
 ---
 
-## 🧮 Công Cụ Tính Toán (20+ Calculators)
+## 🧮 Hệ Sinh Thái 50+ Công Cụ Tính Toán
 
-Tất cả công cụ **miễn phí**, không cần đăng ký, cập nhật theo quy định 2026.
+<p align="center">
+  <img src="assets/calculator-grid.png" alt="50+ Financial Calculators Grid" width="100%"/>
+</p>
 
-| Công cụ | Mô tả | Link |
+Tất cả 50+ công cụ đều **miễn phí**, không cần đăng ký, cập nhật thuật toán mới nhất 2026.
+
+| Công cụ Nổi Bật | Mô tả | Link |
 |:--------|:------|:-----|
 | **Thuế TNCN 2026** | Tính thuế thu nhập cá nhân theo biểu thuế 5 bậc mới | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-thue-thu-nhap-ca-nhan) |
 | **Lương Gross ↔ Net** | Quy đổi lương Gross sang Net và ngược lại | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/tinh-luong-gross-net) |
@@ -81,7 +85,7 @@ Tất cả công cụ **miễn phí**, không cần đăng ký, cập nhật the
 | **Sức Khỏe Tài Chính** | Đánh giá toàn diện tình hình tài chính | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/diem-suc-khoe-tai-chinh) |
 | **Lợi Nhuận Cổ Phiếu** | Tính ROI đầu tư chứng khoán | [Dùng ngay →](https://maytinhtaichinh.com/cong-cu/loi-nhuan-co-phieu) |
 
-👉 **[Xem tất cả 20+ công cụ →](https://maytinhtaichinh.com/cong-cu)**
+👉 **[Xem tất cả 50+ công cụ →](https://maytinhtaichinh.com/cong-cu)**
 
 ---
 
@@ -144,7 +148,7 @@ Bài viết chuyên sâu về tài chính cá nhân, cập nhật 2026:
 
 ## 📊 Highlights
 
-- ✅ **20+ financial calculators** — tax, salary, mortgage, investment, retirement
+- ✅ **50+ financial calculators** — tax, salary, mortgage, investment, retirement
 - ✅ **Flutter mobile app** — iOS & Android, quản lý tài sản, danh mục đầu tư
 - ✅ **Chrome extension** — Giá vàng & tỷ giá real-time
 - ✅ **2026 tax law compliant** — 5-bracket PIT with 15.5M VND personal deduction
